@@ -1,0 +1,6 @@
+.env
+.venv/
+candidate_kit/.env
+candidate_kit/.venv/
+__pycache__/
+*.pyc
